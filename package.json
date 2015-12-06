@@ -1,0 +1,30 @@
+{
+  "name": "rabbitize.ExampleNodeServer",
+  "description": "Example node.js HTTP server",
+  "author": "Valdas Petrulis <petrulis.valdas@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "http-server": "^0.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Waldz/ExampleNodeServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Waldz/ExampleNodeServer/issues"
+  },
+  "homepage": "https://github.com/Waldz/ExampleNodeServer",
+  "version": "0.0.1",
+  "license": "BSD",
+  "keywords": [
+    "Node.js",
+    "HTTP",
+    "server"
+  ]
+}
